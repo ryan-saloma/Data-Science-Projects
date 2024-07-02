@@ -10,8 +10,8 @@ search_terms = ['data', 'analyst', 'District-of-Columbia']
 # query = data analyst in District-of-Columbia
 
 base_url = "https://jsearch.p.rapidapi.com/search" 
-query = "?query=" + "%".join(search_terms) + "&employment_type=FULLTIME&date_posted=week&num_pages=1&page_num="
-page_num = 1
+query = "?query=" + "%".join(search_terms) +\
+"&employment_type=FULLTIME&date_posted=week&num_pages=1&page_num="
 
 payload = {}
 headers = {

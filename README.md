@@ -1,8 +1,36 @@
 # Data Science Projects
 
+## Skills
+
+- Loading data (CSV, binary files, APIs, databases)
+- Cleaning data
+  - Handling missing values: removing missing values, imputing
+  - Transforming: removing duplicates, binning, detecting and removing outliers, creating indicator variables
+  - Manipulating strings
+- Wrangling data
+  - Joining
+  - Sorting
+  - Grouping
+  - Aggregating
+  - Pivoting (long to wide, wide to long)
+- Visualizing data
+  - Plots: histogram, bar, line, scatter
+  - Styles: colors, marker type, line style
+  - Annotations: header, subheader, legend, notes
+  - Facets
+  - Saving ouput
+- Aggregating data
+- Modeling data
+  - Supervised learning
+  - Unsupervised learning
+- Evaluating models
+
+
 ---
 
-- This is a compiled list of different project topics for learning purposes
+## Projects
+
+- This is a compiled list of different project topics for learning purposes.
 - The main purpose of this list is to get hands-on experience on different topics.
 
 | Sr. No. | Project                                                                | Resource link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Completed                                                                                                                                                 |

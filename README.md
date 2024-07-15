@@ -10,8 +10,11 @@
 - Wrangling data
   - Joining
   - Sorting
-  - Grouping
-  - Aggregating
+  - [Grouping](https://realpython.com/pandas-groupby/#improving-the-performance-of-groupby)
+    - Aggregating
+    - Filtering
+    - Transforming
+    - Plotting
   - Pivoting (long to wide, wide to long)
 - Visualizing data
   - Plots: histogram, bar, line, scatter
